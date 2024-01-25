@@ -1,4 +1,4 @@
-#NovaLinux Dotfiles
+# NovaLinux Dotfiles
 This is my desktop's dotfiles for my Arch installation.  
 This is not one-size-fits-all.  
 You'll probably need to at least edit the i3 config to change the background and remove or change the xrandr command that I needed to run to set my refresh rate correctly.  
